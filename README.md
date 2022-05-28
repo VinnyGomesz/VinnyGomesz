@@ -1,6 +1,6 @@
 ## Oiii eu sou o Vinny Silva!
 - 💻 Atualmente estudo/programo com HTML, CSS, JavaScript, Java...
-- 🎒 Aluno SENAI - Lauro de Freitas.
+- 🎒 Aluno SENAI - Lauro de Freitas. (Desenvolvimento de Sistema)
 - 📫 Email: viniciusdsnascimento@gmail.com
 - 📞 Telefone: (71)9 8525-3671
 - 😄 Pronomes: ele/dele
