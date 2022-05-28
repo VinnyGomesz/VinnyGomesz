@@ -15,8 +15,8 @@
   
 <div align="center">
   <a href="  https://github.com/VinnyGomesz">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinnyGomesz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyGomesz&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VinnyGomesz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyGomesz&layout=compact&langs_count=7&theme=dracula"/>
   <img align="center" width="140" height="140" src="https://user-images.githubusercontent.com/99845992/170809155-e5411eae-8cda-4224-8311-54c572960628.gif">
 </div>
 
