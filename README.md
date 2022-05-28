@@ -1,5 +1,8 @@
-### Hi there 👋
-
+💻 Atualmente estudo/programo com HTML, CSS, JavaScript, Java...
+🎒 Aluna SENAI - Lauro de Freitas.
+📫 Email: gabrielli.meloo@hotmail.com ou gabrielli.meloo16@gmail.com
+📞 Telefone: (71)9 8525-3671
+😄 Pronomes: ele/dele
 <!--
 **VinnyGomesz/VinnyGomesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
