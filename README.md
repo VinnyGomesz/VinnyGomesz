@@ -1,19 +1,15 @@
+## Oiii eu sou o Vinny Silva!
 💻 Atualmente estudo/programo com HTML, CSS, JavaScript, Java...
-🎒 Aluna SENAI - Lauro de Freitas.
-📫 Email: gabrielli.meloo@hotmail.com ou gabrielli.meloo16@gmail.com
+🎒 Aluno SENAI - Lauro de Freitas.
+📫 Email: viniciusdsnascimento@gmail.com
 📞 Telefone: (71)9 8525-3671
 😄 Pronomes: ele/dele
-<!--
-**VinnyGomesz/VinnyGomesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/VinnyGomesz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinnyGomesz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyGomesz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  ![Snake animation](https://github.com/VinnyGomesz)
